@@ -1,7 +1,7 @@
 Cultivar ID,vg0130976864,vg0135617816,vg0138428840,vg0713178880,vg0819793460,vg1019044175,vg1123563633,vg1207667840,Subpopulation,Plant Height (cm)
-C001,G,C,T,T,T,C,T,C,Indica I,144.13
+C001,G,C,T,T,T,C,C,C,Indica I,144.13
 C002,G,C,C,T,T,C,C,C,VI/Aromatic,177.62
-C003,G,C,T,T,N,C,T,T,Japonica Intermediate,141.57
+C003,G,C,T,T,A,C,T,T,Japonica Intermediate,141.57
 C004,G,C,T,A,A,C,T,C,Temperate Japonica,140.4
 C005,G,C,T,A,A,T,T,C,Tropical Japonica,163.33
 C006,G,C,T,T,A,T,T,T,Indica Intermediate,108.23
@@ -13,16 +13,16 @@ C011,G,C,T,T,A,T,T,T,Indica II,100.43
 C012,A,C,T,A,A,C,T,T,Temperate Japonica,114.1
 C013,G,C,C,T,T,C,T,C,Aus,150.43
 C014,A,C,T,T,A,T,T,T,Japonica Intermediate,82.43
-C015,G,C,C,T,T,C,T,C,Aus,152.2
-C016,G,C,T,T,A,C,T,T,Temperate Japonica,77.73
+C015,G,C,C,T,T,C,C,C,Aus,152.2
+C016,G,C,T,T,A,C,C,T,Temperate Japonica,77.73
 C017,A,C,T,T,A,C,T,T,Temperate Japonica,92.67
 C018,A,C,T,T,A,C,T,T,Temperate Japonica,78.27
 C019,G,C,T,T,A,T,T,T,Indica I,80.25
-C020,G,C,T,T,A,T,T,T,Indica I,78.17
-C021,G,C,T,T,A,T,T,T,Indica I,80.83
+C020,G,C,T,T,A,T,C,T,Indica I,78.17
+C021,G,C,T,T,A,T,C,T,Indica I,80.83
 C022,G,C,T,T,A,T,T,T,Indica I,77.3
 C023,G,C,T,T,A,C,T,T,Temperate Japonica,89.39
-C024,A,C,T,T,A,T,T,T,Indica I,85.33
+C024,A,C,T,T,A,T,C,T,Indica I,85.33
 C025,G,C,T,T,A,T,T,T,Indica Intermediate,82.83
 C026,A,C,T,T,A,C,T,T,Temperate Japonica,104.7
 C027,G,C,T,T,A,T,T,C,Indica Intermediate,100.47
@@ -31,14 +31,14 @@ C029,A,C,T,T,A,C,T,T,Japonica Intermediate,94.0
 C030,G,C,T,T,A,T,T,T,Indica Intermediate,99.57
 C031,G,C,T,T,A,T,T,T,Indica Intermediate,96.27
 C032,A,C,T,T,A,C,T,T,Temperate Japonica,107.8
-C033,G,C,T,T,A,T,T,T,Indica I,132.04
+C033,G,C,T,T,A,T,C,T,Indica I,132.04
 C034,G,C,T,T,A,C,T,T,Temperate Japonica,110.5
 C035,A,C,T,T,A,C,T,T,Temperate Japonica,102.58
-C036,G,C,T,T,T,T,T,T,Indica Intermediate,95.07
+C036,G,C,T,T,T,T,C,T,Indica Intermediate,95.07
 C037,G,C,T,T,A,T,T,T,Indica I,105.33
 C038,G,C,T,T,A,T,T,T,Indica Intermediate,101.33
-C039,G,C,T,T,A,T,T,T,Indica I,109.43
-C040,G,C,T,T,A,T,T,T,Indica I,102.46
+C039,G,C,T,T,A,T,C,T,Indica I,109.43
+C040,G,C,T,T,A,T,C,T,Indica I,102.46
 C041,G,C,T,T,A,T,T,C,Indica I,113.1
 C042,G,C,T,T,A,T,T,T,Indica Intermediate,103.67
 C043,G,C,T,T,A,T,T,T,Indica I,106.33
@@ -54,14 +54,14 @@ C052,A,C,T,T,A,C,T,C,Temperate Japonica,107.0
 C053,G,C,T,T,A,T,T,T,Indica Intermediate,116.63
 C054,G,C,T,T,A,C,T,T,Temperate Japonica,97.9
 C055,G,C,C,T,A,T,T,T,Indica I,119.03
-C056,G,C,T,T,A,C,T,T,Temperate Japonica,99.03
+C056,G,C,T,T,A,C,C,T,Temperate Japonica,99.03
 C057,A,C,T,T,A,C,T,T,Japonica Intermediate,123.63
-C058,G,C,T,T,A,T,T,T,Indica I,103.7
-C059,G,C,T,T,A,T,T,T,Indica I,113.43
-C060,G,C,T,T,A,T,T,C,Indica I,114.73
+C058,G,C,T,T,A,T,C,T,Indica I,103.7
+C059,G,C,T,T,A,T,C,T,Indica I,113.43
+C060,G,C,T,T,A,T,C,C,Indica I,114.73
 C061,G,C,T,T,A,T,T,T,Indica II,109.37
 C062,G,C,T,T,A,T,T,T,Indica I,105.5
-C063,A,C,T,A,A,C,T,C,Temperate Japonica,115.54
+C063,A,C,T,A,A,C,C,C,Temperate Japonica,115.54
 C064,A,C,T,T,A,C,T,T,Temperate Japonica,103.3
 C065,G,C,T,T,A,T,T,T,Indica Intermediate,109.07
 C066,G,C,T,T,T,T,T,C,Indica I,120.27
@@ -74,14 +74,14 @@ C072,G,C,T,T,T,T,T,T,Indica I,158.07
 C073,G,C,C,T,T,T,T,C,Indica I,167.83
 C074,G,C,T,T,A,C,T,C,Temperate Japonica,143.65
 C075,G,C,T,T,A,C,T,C,Temperate Japonica,131.3
-C076,G,C,C,T,A,T,T,C,Indica I,127.36
-C077,G,C,C,T,A,T,T,C,Indica I,149.8
+C076,G,C,C,T,A,T,C,C,Indica I,127.36
+C077,G,C,C,T,A,T,C,C,Indica I,149.8
 C078,G,C,T,T,T,T,T,C,Indica Intermediate,172.4
 C079,G,C,T,A,A,C,T,C,Temperate Japonica,143.32
 C080,G,C,C,T,T,T,T,T,Indica I,170.53
-C081,G,C,C,T,A,T,T,C,Indica I,155.8
+C081,G,C,C,T,A,T,C,C,Indica I,155.8
 C082,G,C,T,T,A,C,T,C,Temperate Japonica,156.46
-C083,G,C,T,A,A,T,T,T,Temperate Japonica,174.7
+C083,G,C,T,A,A,T,C,T,Temperate Japonica,174.7
 C084,G,C,T,T,A,C,C,C,Japonica Intermediate,157.62
 C085,G,C,T,T,A,C,C,C,Japonica Intermediate,147.1
 C086,G,C,C,T,A,C,T,C,Aus,147.17
@@ -92,9 +92,9 @@ C090,G,C,C,T,A,T,T,T,Indica Intermediate,177.29
 C091,G,C,T,T,A,T,T,C,Indica I,170.07
 C092,G,C,T,T,A,T,T,C,Indica I,168.47
 C093,G,C,T,A,A,C,T,C,Temperate Japonica,164.73
-C094,G,C,T,T,A,T,T,C,Indica Intermediate,154.87
+C094,G,T,T,T,A,T,T,C,Indica Intermediate,154.87
 C095,G,C,C,T,T,T,T,C,Indica I,163.37
-C096,G,N,C,T,T,T,T,C,Indica Intermediate,166.4
+C096,G,C,C,T,T,T,T,C,Indica Intermediate,166.4
 C097,G,C,C,T,T,T,T,T,Indica Intermediate,172.2
 C098,G,C,C,T,A,C,T,C,Indica Intermediate,178.27
 C099,G,C,T,T,T,T,T,C,Indica Intermediate,176.8
@@ -103,7 +103,7 @@ C101,G,C,T,A,A,C,C,C,Temperate Japonica,192.07
 C102,G,C,C,T,A,T,T,T,Indica Intermediate,150.67
 C103,G,C,T,A,A,C,T,C,Temperate Japonica,202.07
 C104,G,C,C,T,T,T,T,T,Indica I,179.14
-C105,G,C,T,T,A,T,T,N,Indica Intermediate,170.17
+C105,G,C,T,T,A,T,T,T,Indica Intermediate,170.17
 C106,G,C,T,A,A,C,C,C,Temperate Japonica,191.0
 C107,G,C,T,T,T,T,T,T,Indica III,193.67
 C108,G,C,C,T,T,T,T,T,Indica I,156.8
@@ -112,20 +112,20 @@ C110,G,C,C,T,A,T,T,C,Indica I,159.33
 C111,G,C,T,A,A,C,C,C,Temperate Japonica,206.13
 C112,G,C,T,T,A,T,T,T,Indica I,77.43
 C113,G,C,T,T,A,T,T,T,Indica Intermediate,73.77
-C114,A,C,T,T,A,T,T,T,Indica Intermediate,86.87
+C114,A,C,T,T,A,T,C,T,Indica Intermediate,86.87
 C115,G,C,T,T,A,T,T,T,Indica II,80.4
 C116,A,C,T,T,A,C,T,T,Temperate Japonica,87.03
-C117,G,C,T,T,N,T,T,T,Indica Intermediate,110.43
+C117,G,C,T,T,A,T,T,T,Indica Intermediate,110.43
 C118,G,C,T,T,A,C,T,T,Indica II,88.27
 C119,A,C,T,T,A,T,T,T,Temperate Japonica,86.17
-C120,A,C,T,A,A,C,T,T,Temperate Japonica,97.63
+C120,A,C,T,A,A,C,C,T,Temperate Japonica,97.63
 C121,G,C,T,T,T,T,C,T,Indica Intermediate,150.67
-C122,G,C,T,T,A,T,T,T,Indica I,118.1
+C122,G,C,T,T,A,T,C,T,Indica I,118.1
 C123,G,C,T,A,A,C,T,T,Tropical Japonica,118.83
 C124,G,C,T,T,A,C,T,T,Indica Intermediate,110.27
 C125,G,C,C,T,A,T,T,C,Indica I,145.65
 C127,G,C,T,T,A,T,T,C,Indica I,152.54
-C128,G,C,T,T,T,T,T,C,Indica I,158.23
+C128,G,C,T,T,T,T,C,C,Indica I,158.23
 C129,G,C,C,T,T,T,T,C,Indica Intermediate,166.87
 C130,G,C,T,A,A,C,T,C,Temperate Japonica,155.4
 C131,G,C,T,T,A,T,T,C,Indica I,165.07
@@ -142,23 +142,23 @@ C141,G,C,C,T,T,T,T,C,Indica I,190.93
 C142,G,C,T,T,T,T,T,T,Indica III,198.57
 C143,G,C,C,T,A,T,T,C,Indica I,170.36
 C144,G,C,T,A,A,C,C,C,Temperate Japonica,206.73
-C145,A,C,T,T,A,T,T,T,Indica I,92.33
+C145,A,C,T,T,A,T,C,T,Indica I,92.33
 C146,A,C,T,T,A,C,T,T,Temperate Japonica,74.7
 C147,G,C,T,T,A,T,T,T,Indica II,108.1
 C148,G,C,T,T,A,T,T,T,Indica II,117.2
-C149,A,C,T,A,A,C,T,T,Temperate Japonica,102.47
+C149,A,C,T,A,A,C,C,T,Temperate Japonica,102.47
 C150,A,C,T,T,A,C,T,T,Temperate Japonica,90.32
 C151,G,C,T,T,A,T,T,T,Indica I,107.73
 C152,A,C,T,T,A,C,T,T,Temperate Japonica,100.0
 C153,G,C,T,A,A,T,T,T,Tropical Japonica,105.07
 C154,A,C,T,T,A,C,T,T,Temperate Japonica,77.43
-C155,G,C,T,T,A,T,T,T,Indica I,69.47
-C156,G,C,T,T,A,T,T,T,Indica I,73.13
-C157,G,C,T,T,A,T,T,T,Indica I,75.1
-C158,G,C,T,T,A,T,T,T,Indica I,85.17
-C159,G,C,T,T,A,T,T,T,Indica I,95.8
+C155,G,C,T,T,A,T,C,T,Indica I,69.47
+C156,G,C,T,T,A,T,C,T,Indica I,73.13
+C157,G,C,T,T,A,T,C,T,Indica I,75.1
+C158,G,C,T,T,A,T,C,T,Indica I,85.17
+C159,G,C,T,T,A,T,C,T,Indica I,95.8
 C160,G,C,T,T,A,T,T,T,Indica Intermediate,83.68
-C161,G,C,T,T,A,T,T,T,Indica I,93.5
+C161,G,C,T,T,A,T,C,T,Indica I,93.5
 C162,G,C,T,T,T,T,T,T,Indica Intermediate,97.77
 C163,G,C,T,T,A,T,T,T,Indica II,104.17
 C164,G,C,T,T,A,T,T,T,Indica II,95.53
@@ -169,7 +169,7 @@ C168,G,C,T,T,A,T,T,T,Indica Intermediate,104.87
 C169,G,C,T,T,A,T,T,T,Indica Intermediate,118.07
 C170,G,C,T,T,A,T,T,T,Indica I,94.87
 C171,G,C,T,T,A,C,T,C,Temperate Japonica,140.61
-C172,A,C,T,A,A,C,T,T,Temperate Japonica,102.37
+C172,A,C,T,A,A,C,C,T,Temperate Japonica,102.37
 C173,G,C,T,T,T,T,T,C,Indica I,114.4
 C174,G,C,T,T,A,T,T,T,Indica II,111.43
 C175,G,C,T,T,T,T,T,T,Indica Intermediate,111.2
@@ -177,11 +177,11 @@ C176,G,C,T,T,A,T,T,C,Indica Intermediate,97.67
 C177,A,C,T,T,A,C,T,T,Temperate Japonica,112.87
 C178,G,C,T,T,A,T,T,T,Indica I,107.67
 C179,G,C,T,T,A,C,T,C,Temperate Japonica,133.53
-C180,G,C,T,T,T,T,T,C,Indica I,147.15
+C180,G,C,T,T,T,T,C,C,Indica I,147.15
 C181,G,C,T,T,A,C,T,T,Temperate Japonica,137.9
 C182,G,C,C,T,A,T,T,C,Indica I,161.2
-C183,G,C,T,T,T,T,T,C,Indica I,160.57
-C184,G,C,C,T,A,T,T,C,Indica I,156.17
+C183,G,C,T,T,T,T,C,C,Indica I,160.57
+C184,G,C,C,T,A,T,C,C,Indica I,156.17
 C185,A,C,T,T,A,C,T,C,Japonica Intermediate,145.0
 C186,G,C,T,T,A,C,T,C,Japonica Intermediate,180.0
 C187,G,C,T,T,A,C,T,T,Temperate Japonica,144.47
@@ -190,7 +190,7 @@ C189,G,C,T,A,A,C,T,T,Temperate Japonica,162.36
 C190,G,C,C,T,T,T,T,C,Indica I,160.9
 C191,G,C,T,T,A,T,T,C,Indica I,171.27
 C192,G,C,T,T,T,T,T,T,Indica Intermediate,185.07
-C193,G,C,T,T,T,T,T,C,Indica I,158.4
+C193,G,C,T,T,T,T,C,C,Indica I,158.4
 C194,G,C,C,T,T,T,T,T,Indica Intermediate,173.4
 C195,G,C,T,T,A,C,T,T,Temperate Japonica,171.79
 C196,G,C,T,A,A,C,T,C,Temperate Japonica,193.0
@@ -199,9 +199,9 @@ C198,G,C,C,T,T,T,T,C,Indica Intermediate,173.77
 C199,G,C,C,T,T,T,T,C,Indica I,187.53
 C200,G,C,C,T,T,T,T,C,Indica I,189.1
 C201,G,C,C,T,T,T,T,C,Indica Intermediate,194.93
-C202,G,C,C,T,T,T,T,C,Indica I,176.33
+C202,G,C,C,T,T,T,C,C,Indica I,176.33
 C203,G,C,T,T,A,C,T,T,Indica I,77.33
-W001,G,C,C,T,A,T,T,C,Indica I,146.4
+W001,G,C,C,T,A,T,C,C,Indica I,146.4
 W002,G,C,T,A,A,T,T,C,Tropical Japonica,157.4
 W003,A,C,T,A,A,C,T,C,Tropical Japonica,140.4
 W004,G,C,T,A,A,T,T,C,Tropical Japonica,158.2
@@ -220,7 +220,7 @@ W016,A,C,T,T,A,C,T,T,Temperate Japonica,78.8
 W017,G,C,T,A,A,T,T,T,Tropical Japonica,126.2
 W018,G,C,T,T,A,C,T,T,Temperate Japonica,93.4
 W019,G,C,T,T,A,C,T,T,Japonica Intermediate,124.8
-W020,G,N,C,T,T,T,T,C,Aus,136.6
+W020,G,C,C,T,T,T,C,C,Aus,136.6
 W021,A,C,T,T,A,C,T,C,Japonica Intermediate,142.4
 W022,G,C,T,A,A,T,T,T,Tropical Japonica,146.0
 W023,G,C,C,T,T,T,T,T,Indica III,165.8
@@ -228,8 +228,8 @@ W024,G,C,T,A,A,T,T,T,Tropical Japonica,139.8
 W025,G,C,C,T,T,C,T,C,Aus,154.2
 W026,G,C,C,T,T,T,T,C,Indica I,160.6
 W027,A,C,T,T,A,C,T,T,Temperate Japonica,116.8
-W028,G,C,C,T,T,C,T,C,Aus,164.2
-W029,G,C,N,T,A,T,T,C,Indica Intermediate,147.8
+W028,G,T,C,T,T,C,T,C,Aus,164.2
+W029,G,C,T,T,A,T,C,C,Indica Intermediate,147.8
 W030,G,C,C,T,A,C,T,T,Indica Intermediate,172.6
 W031,G,C,C,T,T,T,T,C,Indica I,159.6
 W032,G,C,C,T,T,T,T,C,Indica I,159.6
@@ -275,7 +275,7 @@ W071,G,C,C,T,A,T,T,T,Indica Intermediate,104.6
 W072,G,C,C,T,T,C,T,C,Aus,154.0
 W073,G,C,T,T,A,T,T,C,Indica II,98.8
 W074,G,C,C,T,A,T,T,C,Indica Intermediate,162.2
-W075,G,N,C,T,A,C,T,C,Indica Intermediate,186.2
+W075,G,C,C,T,A,C,T,C,Indica Intermediate,186.2
 W076,G,C,C,T,T,C,T,C,Aus,155.0
 W077,G,C,C,T,T,C,C,C,VI/Aromatic,182.4
 W078,G,C,T,T,A,T,C,T,Indica Intermediate,96.8
@@ -291,11 +291,11 @@ W087,A,C,T,T,A,T,T,T,Indica I,77.2
 W088,A,C,T,T,A,C,T,T,Temperate Japonica,70.6
 W089,G,C,C,T,T,T,T,T,Indica III,136.4
 W090,G,C,C,T,T,C,T,C,Aus,137.4
-W091,G,C,C,T,T,C,T,C,Aus,148.2
+W091,G,C,C,T,T,C,C,C,Aus,148.2
 W092,G,C,C,T,T,C,T,C,Aus,144.8
 W093,G,C,C,T,T,T,T,T,Indica III,133.0
 W094,G,C,C,T,T,C,T,C,Aus,141.8
-W095,G,N,C,T,T,C,T,C,Aus,165.8
+W095,G,C,C,T,T,C,C,C,Aus,165.8
 W096,G,C,C,T,T,C,T,C,Aus,165.2
 W097,G,C,T,T,A,C,T,C,Intermediate,137.0
 W098,G,C,C,T,T,C,T,C,Aus,158.8
@@ -332,7 +332,7 @@ W128,A,C,C,A,T,C,T,T,Intermediate,149.8
 W129,G,C,C,T,A,C,T,C,VI/Aromatic,151.2
 W130,A,C,T,T,A,C,T,T,Temperate Japonica,92.6
 W131,G,C,C,T,T,C,T,C,Aus,161.0
-W132,G,C,T,T,T,T,T,C,Indica I,156.0
+W132,G,C,T,T,T,T,C,C,Indica I,156.0
 W133,G,C,T,T,A,T,T,C,Indica Intermediate,157.8
 W134,G,C,C,T,A,C,T,C,Aus,150.0
 W135,G,C,T,T,A,C,T,C,Indica Intermediate,172.8
@@ -378,7 +378,7 @@ W174,G,C,T,T,A,T,T,T,Indica II,84.0
 W175,G,C,T,T,A,C,T,T,Intermediate,101.0
 W176,G,C,T,T,A,T,T,T,Indica II,101.4
 W177,G,C,T,T,A,T,T,T,Indica II,100.0
-W178,G,N,C,T,A,T,T,T,Indica III,97.8
+W178,G,C,C,T,A,T,T,T,Indica III,97.8
 W179,G,C,T,T,A,T,T,T,Indica II,93.8
 W180,G,C,T,T,A,T,T,T,Indica Intermediate,108.0
 W181,G,C,T,T,T,T,T,T,Indica Intermediate,105.8
@@ -387,7 +387,7 @@ W183,G,C,T,T,A,T,T,T,Indica II,96.6
 W184,G,C,T,T,A,T,T,T,Indica II,98.0
 W185,G,C,T,T,A,T,T,T,Indica II,95.6
 W186,G,C,T,T,A,T,T,T,Indica Intermediate,98.2
-W187,G,N,T,T,A,T,T,T,Indica Intermediate,105.2
+W187,G,C,T,T,A,T,T,T,Indica Intermediate,105.2
 W188,G,C,T,T,A,T,T,C,Indica II,102.0
 W189,G,C,T,T,A,T,T,T,Indica II,114.2
 W191,G,C,T,T,T,T,T,C,Intermediate,121.0
@@ -408,7 +408,7 @@ W206,G,C,T,T,A,T,T,C,Indica Intermediate,112.0
 W207,A,C,T,T,A,C,T,T,Temperate Japonica,114.6
 W208,G,C,T,A,A,T,T,T,Temperate Japonica,119.6
 W209,A,C,T,T,A,C,T,T,Temperate Japonica,142.4
-W210,G,C,C,T,A,T,T,T,Indica I,166.4
+W210,G,C,C,T,A,T,C,T,Indica I,166.4
 W211,G,C,T,T,A,T,T,T,Indica II,97.0
 W212,G,C,C,T,A,T,T,C,Indica Intermediate,159.6
 W213,G,C,T,T,A,T,T,T,Indica Intermediate,137.4
@@ -421,7 +421,7 @@ W219,G,C,C,T,T,C,C,C,VI/Aromatic,161.0
 W220,G,C,C,T,T,C,C,C,VI/Aromatic,172.0
 W221,G,C,C,T,A,T,T,T,Indica Intermediate,112.4
 W222,G,C,T,T,A,T,T,T,Indica II,115.6
-W223,G,C,T,T,A,T,T,T,Indica II,103.6
+W223,G,C,T,T,A,T,C,T,Indica II,103.6
 W224,G,C,T,T,A,T,T,T,Indica II,116.0
 W225,G,C,T,T,A,T,T,T,Tropical Japonica,90.2
 W226,A,C,T,T,A,T,T,T,Temperate Japonica,93.2
@@ -432,19 +432,19 @@ W230,G,C,T,T,A,T,T,T,Indica II,-9.0
 W231,G,C,T,T,A,T,T,T,Indica II,117.0
 W233,G,C,T,T,A,T,T,T,Indica Intermediate,114.2
 W234,G,C,T,T,A,T,T,T,Indica Intermediate,112.8
-W235,G,C,C,T,T,T,T,C,Indica I,148.4
+W235,G,T,C,T,T,T,T,C,Indica I,148.4
 W236,G,C,T,T,A,T,T,T,Indica II,101.8
 W237,G,C,T,T,A,T,T,T,Indica II,115.8
 W238,G,C,T,T,A,T,T,T,Indica II,95.4
 W239,G,C,T,T,A,T,T,C,Indica Intermediate,109.8
-W240,G,C,T,T,A,C,T,N,Indica Intermediate,111.6
+W240,G,C,T,T,A,C,T,T,Indica Intermediate,111.6
 W241,G,C,C,T,T,T,T,T,Indica II,119.2
 W242,G,C,T,T,A,T,T,T,Indica Intermediate,106.2
 W243,G,C,T,T,A,T,T,T,Indica II,105.6
 W244,G,C,T,T,A,T,T,T,Indica II,102.4
 W245,G,C,T,T,A,T,T,T,Indica Intermediate,121.6
-W246,G,C,N,T,A,T,T,C,Indica Intermediate,151.0
-W247,G,C,C,T,A,T,T,T,Indica I,170.2
+W246,G,C,T,T,A,T,T,C,Indica Intermediate,151.0
+W247,G,C,C,T,A,T,C,T,Indica I,170.2
 W248,G,C,T,T,A,T,T,T,Indica I,145.4
 W249,A,C,T,A,A,C,T,T,Temperate Japonica,125.8
 W250,A,C,T,A,A,C,T,T,Temperate Japonica,123.2
@@ -458,7 +458,7 @@ W257,G,C,T,A,A,T,T,T,Tropical Japonica,171.6
 W258,G,C,C,T,A,C,C,C,VI/Aromatic,158.4
 W259,G,C,T,T,A,T,T,T,Indica II,106.0
 W260,G,C,T,T,A,T,T,C,Tropical Japonica,134.0
-W261,G,C,T,T,T,C,T,C,Intermediate,132.4
+W261,G,C,T,T,T,C,C,C,Intermediate,132.4
 W262,G,C,T,T,A,T,T,T,Indica I,83.8
 W263,G,C,T,T,A,T,T,T,Indica Intermediate,114.8
 W264,G,C,T,T,A,T,T,T,Indica Intermediate,91.4
@@ -474,9 +474,9 @@ W273,G,C,T,A,A,T,T,C,Tropical Japonica,156.2
 W274,G,C,T,T,T,T,T,T,Indica I,70.8
 W275,G,C,T,A,A,T,T,T,Tropical Japonica,148.2
 W276,G,C,T,T,A,T,T,T,Indica III,160.2
-W277,G,C,C,T,T,C,T,C,Aus,142.0
-W278,G,C,C,T,T,C,T,C,Aus,146.6
-W279,G,C,C,T,T,C,T,C,Aus,166.6
+W277,G,C,C,T,T,C,C,C,Aus,142.0
+W278,G,C,C,T,T,C,C,C,Aus,146.6
+W279,G,C,C,T,T,C,C,C,Aus,166.6
 W280,G,C,C,T,T,C,T,C,Aus,145.8
 W281,G,C,T,T,A,C,T,T,Temperate Japonica,150.0
 W282,G,C,C,T,A,T,T,C,Indica Intermediate,134.8
@@ -487,7 +487,7 @@ W286,G,C,C,T,T,C,T,C,Aus,154.8
 W287,G,C,C,T,T,C,T,C,Aus,150.2
 W288,G,C,T,A,A,T,T,C,Tropical Japonica,144.2
 W289,G,C,T,T,A,T,T,T,Indica II,104.4
-W290,G,C,T,T,A,C,T,T,Temperate Japonica,116.4
+W290,G,C,T,T,A,C,C,T,Temperate Japonica,116.4
 W291,G,C,T,T,T,T,T,T,Indica II,96.6
 W292,G,C,C,T,T,C,T,C,Aus,164.2
 W293,G,C,T,T,A,T,T,T,Indica II,83.4
@@ -515,7 +515,7 @@ W314,G,C,C,T,A,T,T,C,Indica II,111.2
 W315,G,C,T,T,A,T,T,T,Indica II,102.0
 W316,G,C,T,T,A,T,T,T,Indica II,99.0
 W317,G,C,T,T,A,T,T,T,Indica II,110.4
-W318,G,C,N,T,A,T,T,T,Indica I,139.3
+W318,G,C,T,T,A,T,T,T,Indica I,139.3
 W319,G,C,T,A,A,C,C,C,Temperate Japonica,174.2
 W320,G,C,C,T,T,T,T,C,Indica Intermediate,177.2
 W321,G,C,T,T,T,T,T,T,Indica III,160.6
@@ -527,4 +527,4 @@ W326,G,C,T,T,A,C,T,C,Japonica Intermediate,155.4
 W327,A,C,T,T,A,C,T,C,Temperate Japonica,89.8
 W328,A,C,T,T,A,C,T,T,Intermediate,117.4
 W329,G,C,T,T,A,T,T,C,Tropical Japonica,147.4
-W330,G,C,C,T,T,C,T,C,Aus,149.6
+W330,G,C,C,T,T,C,C,C,Aus,149.6
