@@ -1,0 +1,46 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+C.irapeanum          CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGATGAGACCGTGGAATAAA
+C.fasciculatum       CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAGACAGCAGAACATA
+C.californicum       CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAGACAACAGAATATA
+C.margaritaceum      CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAAACAACATAATAAA
+C.yatabeanum         CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAGACAGTAGAATATA
+C.guttatum           CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAGACAGTAGAATATA
+C.formosanum         CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGTTGAGATAGTAGAATATA
+C.lichiangense       -----------------ACGGCGAGCTGCCGAAGGA-CATTGTTGAGACAGCAGAATATA
+C.acaule             ----------------------------------------TGTTGAGATAGCAGAATATA
+                                                             ** *** *      ** * *
+
+C.irapeanum          CGATCGAGTGAATCCGGAGGACCGGTG--TACTCAGCTCACCGGGGGCATTGCTCCCGTG
+C.fasciculatum       CGATCGAGTGAATCCGGAGGACCCGTGGTTACACGGCTCACCGTGG-CTTTGCTCTCGTG
+C.californicum       TGATCGAGTGAATCTGGAGGACCTGTGGTAACTCAGCTCGTCGTGG-CACTGCTTTTGTC
+C.margaritaceum      CGATTGAGTGAATCTGGAGGACTTGTGGTAATTTGGCTCGCTAGGGATATC-CTTTTGTG
+C.yatabeanum         TGATCGAGTGAATCTGGATGACCTGTGGTTACTCGGCTCGCC--TG-ATTTGTTGTTG-G
+C.guttatum           TGATCGAGTGAATCTGGAGGACCTGTGGTTACTCGGCTCCCC--TG-ATTTGTTGTTG-G
+C.formosanum         TGATTGAGTGAATATGGAGGACATGTGGTTACTTGGCTCGTCAGTG-CTTTGCTTTTGTG
+C.lichiangense       CGATTGAGTGAATCTGGAGGACTTGTGGTTATTTGGCTCGCT-AGGGATTTCCTTTTGTG
+C.acaule             C-ATCGAGTGAATCCGGAGGACCTGTGGTTATTCGGCTTGCCGAGGGCTTTGCTTTTGTG
+                       ** ********  *** ***  ***   *    ***       *       *   *  
+
+C.irapeanum          GTGACCCTGATTTGTTGTTGGG--------------------------------------
+C.fasciculatum       GTGAACCCGGTTTGCGACCGG---------------------------------------
+C.californicum       GTGACCCTGCTTTGTTGTTGG---------------------------------------
+C.margaritaceum      GTGACCATGATTTGTCATTGG---------------------------------------
+C.yatabeanum         GCTTCCTTAG--GAGCTTACATGGCG----------------------------------
+C.guttatum           GCTTCCTTAG--GAGCTTACATGCCG----------------------------------
+C.formosanum         GTGACCTTAATTGGGCCTCCT---------------------------------------
+C.lichiangense       GTGACCATGATTTGTCATTGGGCCTCATTGAGAGCTTTC---------------------
+C.acaule             GTGACCCAAATTTGTCGTTGGGCCTCCTCGGGAGCTTTCATGGCAGGTTTCAAACTCTAG
+                     *    *                                                      
+
+C.irapeanum          -
+C.fasciculatum       -
+C.californicum       -
+C.margaritaceum      -
+C.yatabeanum         -
+C.guttatum           -
+C.formosanum         -
+C.lichiangense       -
+C.acaule             C
+                      
