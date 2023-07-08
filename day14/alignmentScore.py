@@ -103,6 +103,7 @@ def backTrack(matrix, matchPenalty, mismatchPenalty, gapPenalty):
     return directions, score
 
 
+
 def alignSequencesGlobal(sequence1, sequence2, matchPenalty = 1, mismatchPenalty = -1, gapPenalty = -2):
     mat = constructMatrix(sequence1, sequence2)
     matrix = initMatrix(mat, gapPenalty)
@@ -110,6 +111,8 @@ def alignSequencesGlobal(sequence1, sequence2, matchPenalty = 1, mismatchPenalty
     return matrix[-1][-1]
     # dir = backTrack(matrix, matchPenalty, mismatchPenalty, gapPenalty)
     # return dir[1]
+
+
 
 
 # Assigning the constants for the scores
